@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm currently finishing my Electrical and Computer Engineering degree. My dream is to work with both software and hardware to create and deploy life-changing apps. I hope to have to opportunity to work with and learn from great engineers as I strive for greatness in all that I work torwards!"
   location         : "Alperton, London"
-  email            : "seanmongru@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "seanmongru@gmail.com"
+      #url: "seanmongru@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
