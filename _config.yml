@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Sean Mongru Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "This portfolio is still a work in progress as of 24/11/19 and I hope to have it fully operational in the upcoming week!"# site tagline that appears below site title in masthead
 name                     : "Sean Mongru"
 description              : "My portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,17 +108,17 @@ analytics:
 # Site Author
 author:
   name             : "Sean Mongru"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Currently doing up a portfolio."
-  location         : "HA0, London"
-  email            :
+  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Driven Electrical and Computer Engineering Undergraduate eager to jump-start his professional career in Software Engineering."
+  location         : "Wembley, London, UK"
+  email            : "seanmongru@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: seanmongru@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: seanmongru@gmail.com
+      # url: seanmongru@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://sean-mongru.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Sean-Mongru"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
